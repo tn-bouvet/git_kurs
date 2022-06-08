@@ -1,3 +1,3 @@
-Hei Bouvet!
+Hei Bouvet!!
 
 Vi jobber med git i dag
